@@ -1,0 +1,10 @@
+# See https://ghostty.org/docs/config/reference
+theme = Dark+
+background-opacity = 0.9
+font-family = Cascadia Code NF
+font-size = 11
+window-height = 50
+window-width = 180
+
+bell-features = system
+copy-on-select = clipboard
